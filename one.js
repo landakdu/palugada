@@ -1,6 +1,9 @@
 var url = Array(
   "https://palugada1.fun/",
-  "https://palugada1.fun/"
+  "https://palugada2.fun/",
+  "https://palugada3.fun/",
+  "https://palugada4.fun/",
+  "https://palugada5.fun/"
 );
 var rid = "";
 
